@@ -9,4 +9,18 @@
 // STEP 4: If exam grade is >50 and project number is >=2. If true, return 75.
 // STEP 5: If steps 2-4 are false, return 0
 // Done!!
+//
 
+//KATA: Calculate Average
+//-----------------------
+//GOAL: Calculate the average of numbers in an array.
+//INPUTS: An array.
+//RETURN: The average.
+//STEP 1: Calculate length of array and call it LENGTH
+//STEP 2: If LENGTH = 0 return 0 and end. (Early return)
+//STEP 3: Initialiaze variable called SUM (SUM = 0) to store sum of all the numbers in the array.
+//STEP 4: Loop through array and add each number to value of SUM. (SUM = SUM + NUMBER)
+//STEP 5: Divide the final value of SUM with LENGTH and call it AVERAGE
+//STEP 6: Print AVERAGE.
+//Done!!
+//https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
